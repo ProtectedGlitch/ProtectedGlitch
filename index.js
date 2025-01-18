@@ -1,9 +1,33 @@
-document.getElementById("sure").onclick=function(){
-    location.href="./pages/aboutuspage/aboutus.html"
+/*document.getElementById("good").onclick=function(){
+    alert("You have been scammed")
+}*/
+    
+//alert("")
+//prompt("")
+/*document.getElementById("good").onclick=function(){
+    document.getElementById("good").innerHTML="i am good"    
 }
-document.getElementById("nice").onclick=function(){
-    location.href="./pages/homepage/homepage.html"
+*/
+/*document.getElementById("good").onclick=function(){
+    document.getElementById("be").src="rename.jpeg"
 }
-document.getElementById("good").onclick=function(){
-    location.href="./pages/contactus/contactus.html"
-}
+*/
+
+/*document.getElementById("good").addEventListener("click",function () {
+    document.getElementById("good").style.background="red"
+document.getElementById("good").style.width="150px"
+})
+if(navigator.onLine){
+    alert("Online")
+}*/
+document.getElementById("good").addEventListener("click",function () {
+    location.href="an.html"
+})
+
+document.getElementById("yeah").addEventListener("click",function () {
+    location.href="about.html"
+})
+
+document.getElementById("coming").addEventListener("click",function () {
+    location.href="products.html"
+})
