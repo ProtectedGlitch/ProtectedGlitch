@@ -1,0 +1,9 @@
+document.getElementById("sure").onclick=function(){
+    location.href="./pages/aboutuspage/aboutus.html"
+}
+document.getElementById("nice").onclick=function(){
+    location.href="./pages/homepage/homepage.html"
+}
+document.getElementById("good").onclick=function(){
+    location.href="./pages/contactus/contactus.html"
+}
